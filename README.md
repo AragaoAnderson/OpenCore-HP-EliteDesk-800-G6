@@ -15,7 +15,7 @@
 
 1. All DP/HDMI Ports
 2. All USB and USB-C 3.x Ports
-3. Builtin Audio and Speaker with Boot Chime support
+3. Built-in Audio and Speaker with Boot Chime support
 4. Dualboot with Windows 11 Pro using Custom UpdateSMBIOSMode to avoid issues with Windows Activation
 
 ## What's not Working
