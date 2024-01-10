@@ -8,15 +8,15 @@
 
 - CPU：Intel Core i5 10500
 - RAM：16GB 2667MHz DDR4
-- HardDisk：SSD SATA Western Digital 480GB (Works builtin NVMe)
-- Wi-Fi：FENVI Broadcom 4360 Wireless (For builtin Intel use OpenIntelWireless)
+- HardDisk：SSD SATA Western Digital 480GB (Works with built-in NVMe)
+- Wi-Fi：FENVI Broadcom 4360 Wireless (For built-in Intel use OpenIntelWireless)
 
 ## What's Working
 
 1. All DP/HDMI Ports
 2. All USB and USB-C 3.x Ports
 3. Builtin Audio and Speaker with Boot Chime support
-4. Dualboot with Windows 11 Pro with Custom UpdateSMBIOSMode to avoid issues with Windows Activation
+4. Dualboot with Windows 11 Pro using Custom UpdateSMBIOSMode to avoid issues with Windows Activation
 
 ## What's not Working
 
