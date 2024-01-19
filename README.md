@@ -1,7 +1,7 @@
 # OpenCore for HP EliteDesk 800 G6 Mini PC
 
-1. OpenCore Version: 0.9.7
-2. All used Kernel Extensions are updated until 01-09-24
+1. OpenCore Version: 0.9.8
+2. All used Kernel Extensions are updated until 01-19-24
 3. Latest macOS Sonoma version Supported
 4. Generate a valid SMBios for your installation. The files includes a Generic one
    
@@ -18,6 +18,7 @@
 2. All USB and USB-C 3.x Ports
 3. Built-in Audio and Speaker with Boot Chime support
 4. Dualboot with Windows 11 Pro using Custom UpdateSMBIOSMode to avoid issues with Windows Activation
+5. AirPlay using FeatureUnlock.kext when using Mac mini SMBios
 
 ## What's not Working
 
