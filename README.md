@@ -3,7 +3,8 @@
 1. OpenCore Version: 0.9.7
 2. All used Kernel Extensions are updated until 01-09-24
 3. Latest macOS Sonoma version Supported
-
+4. Generate a valid SMBios for your installation. The files includes a Generic one
+   
 ## Configuration
 
 - CPU：Intel Core i5 10500
