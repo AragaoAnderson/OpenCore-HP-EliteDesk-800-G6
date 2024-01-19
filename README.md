@@ -8,13 +8,14 @@
 ## Configuration
 
 - CPU：Intel Core i5 10500
+- Graphics: Intel UHD Graphics 630
 - RAM：16GB 2667MHz DDR4
-- HardDisk：SSD SATA Western Digital 480GB (Works with built-in NVMe)
+- HardDisk：SSD NVMe KINGSTON SNVS500G 500GB
 - Wi-Fi：FENVI Broadcom 4360 Wireless (For built-in Intel use OpenIntelWireless)
 
 ## What's Working
 
-1. All DP/HDMI Ports
+1. All DP/HDMI Ports with Audio Output
 2. All USB and USB-C 3.x Ports
 3. Built-in Audio and Speaker with Boot Chime support
 4. Dualboot with Windows 11 Pro using Custom UpdateSMBIOSMode to avoid issues with Windows Activation
