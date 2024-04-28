@@ -1,7 +1,7 @@
 # OpenCore for HP EliteDesk 800 G6 Mini PC
 
-1. OpenCore Version: 0.9.8
-2. All used Kernel Extensions are updated until 01-19-24
+1. OpenCore Version: 1.0.0
+2. All used Kernel Extensions are updated until 04-26-24
 3. Latest macOS Sonoma version Supported
 4. Generate a valid SMBios for your installation. The files includes a Generic one
    
